@@ -24,12 +24,12 @@ Este projeto é um gerador de chaves promocionais que permite criar, gerenciar e
 
 1. Clone o repositório:
 ```sh
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/EldritchTenebris1/PromoKey.git
 ```
 
 2. Navegue até o diretório do projeto:
 ```sh
-cd promo-key-generator
+cd PromoKey
 ```
 
 3. Instale as dependências:
